@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Japan's Longest Day (Nihon no ichiban nagai hi)",
+    "genres": "Drama|War",
+    "releaseDate": "5/11/2007",
+    "description": "Open wound of back wall of thorax with penetration into thoracic cavity",
+    "country": "Sweden"
+  },
+  {
+    "id": 2,
+    "title": "Manakamana",
+    "genres": "Documentary",
+    "releaseDate": "8/3/2013",
+    "description": "Rheumatoid myopathy with rheumatoid arthritis of right shoulder",
+    "country": "Argentina"
+  },
+  {
+    "id": 3,
+    "title": "Wild Bees, The (Divoké vcely)",
+    "genres": "Comedy|Drama",
+    "releaseDate": "4/22/1998",
+    "description": "Dislocation of proximal interphalangeal joint of left little finger, sequela",
+    "country": "Macedonia"
+  },
+  {
+    "id": 4,
+    "title": "Company of Heroes",
+    "genres": "Action|War",
+    "releaseDate": "11/29/2019",
+    "description": "Erysipeloid, unspecified",
+    "country": "Russia"
+  },
+  {
+    "id": 5,
+    "title": "Major League II",
+    "genres": "Comedy",
+    "releaseDate": "11/1/1994",
+    "description": "Nondisplaced fracture of posterior process of left talus, subsequent encounter for fracture with malunion",
+    "country": "Brazil"
+  },
+  {
+    "id": 6,
+    "title": "'burbs, The",
+    "genres": "Comedy",
+    "releaseDate": "12/20/1996",
+    "description": "Unspecified physeal fracture of lower end of unspecified femur",
+    "country": "China"
+  },
+  {
+    "id": 7,
+    "title": "Mother, The",
+    "genres": "Drama",
+    "releaseDate": "9/25/1996",
+    "description": "War operations involving other destruction of aircraft, military personnel, subsequent encounter",
+    "country": "Indonesia"
+  },
+  {
+    "id": 8,
+    "title": "Girlhood",
+    "genres": "Documentary",
+    "releaseDate": "3/22/2002",
+    "description": "Allergy, unspecified, sequela",
+    "country": "China"
+  },
+  {
+    "id": 9,
+    "title": "Broken Arrow",
+    "genres": "Drama|Romance|Western",
+    "releaseDate": "12/5/2004",
+    "description": "Unspecified fracture of unspecified talus, sequela",
+    "country": "Dominica"
+  },
+  {
+    "id": 10,
+    "title": "Silent Night, Deadly Night III: Better Watch Out!",
+    "genres": "Horror",
+    "releaseDate": "6/9/1993",
+    "description": "Adverse effect of other topical agents",
+    "country": "Sweden"
+  },
+  {
+    "id": 11,
+    "title": "10 to Midnight",
+    "genres": "Action|Adventure|Thriller",
+    "releaseDate": "7/7/1992",
+    "description": "Dislocation of other parts of thorax",
+    "country": "Yemen"
+  },
+  {
+    "id": 12,
+    "title": "Theatre Bizarre, The",
+    "genres": "Horror",
+    "releaseDate": "12/3/2009",
+    "description": "Other specific arthropathies, not elsewhere classified, right hand",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 13,
+    "title": "Beaufort",
+    "genres": "Action|Drama|War",
+    "releaseDate": "2/23/2017",
+    "description": "Macular cyst, hole, or pseudohole, bilateral",
+    "country": "Brazil"
+  },
+  {
+    "id": 14,
+    "title": "One-Armed Swordsman, The (Dubei dao)",
+    "genres": "Action|Drama",
+    "releaseDate": "1/17/2011",
+    "description": "Unspecified open wound of unspecified cheek and temporomandibular area, subsequent encounter",
+    "country": "China"
+  },
+  {
+    "id": 15,
+    "title": "In Old California",
+    "genres": "Western",
+    "releaseDate": "10/16/1994",
+    "description": "Cutaneous abscess of right lower limb",
+    "country": "Thailand"
+  },
+  {
+    "id": 16,
+    "title": "Mummy Returns, The",
+    "genres": "Action|Adventure|Comedy|Thriller",
+    "releaseDate": "9/14/1981",
+    "description": "Other specified injury of Achilles tendon",
+    "country": "China"
+  },
+  {
+    "id": 17,
+    "title": "Million, Le (Million, The)",
+    "genres": "Comedy|Musical",
+    "releaseDate": "12/9/1990",
+    "description": "Unspecified injury of intrinsic muscle, fascia and tendon of right index finger at wrist and hand level, initial encounter",
+    "country": "Brazil"
+  },
+  {
+    "id": 18,
+    "title": "Adventures of Buckaroo Banzai Across the 8th Dimension, The",
+    "genres": "Adventure|Comedy|Sci-Fi",
+    "releaseDate": "12/18/2014",
+    "description": "Passenger in heavy transport vehicle injured in collision with car, pick-up truck or van in nontraffic accident",
+    "country": "South Africa"
+  },
+  {
+    "id": 19,
+    "title": "Usual Suspects, The",
+    "genres": "Crime|Mystery|Thriller",
+    "releaseDate": "5/28/2004",
+    "description": "Combined immunodeficiency, unspecified",
+    "country": "China"
+  },
+  {
+    "id": 20,
+    "title": "Whity",
+    "genres": "Drama|Western",
+    "releaseDate": "4/18/1990",
+    "description": "Other specified myoneural disorders",
+    "country": "Philippines"
+  },
+  {
+    "id": 21,
+    "title": "Breaking the Maya Code",
+    "genres": "Documentary",
+    "releaseDate": "12/15/1982",
+    "description": "Leakage of insulin pump, initial encounter",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 22,
+    "title": "Fear and Desire",
+    "genres": "Drama|War",
+    "releaseDate": "12/22/2008",
+    "description": "Nondisplaced fracture of proximal phalanx of left little finger, subsequent encounter for fracture with nonunion",
+    "country": "Poland"
+  },
+  {
+    "id": 23,
+    "title": "Nude for Satan (Nuda per Satana)",
+    "genres": "Horror",
+    "releaseDate": "5/2/2018",
+    "description": "Displaced other extraarticular fracture of right calcaneus, sequela",
+    "country": "Russia"
+  },
+  {
+    "id": 24,
+    "title": "Quiet Room, The",
+    "genres": "Drama",
+    "releaseDate": "9/2/2021",
+    "description": "Major osseous defect, right pelvic region and thigh",
+    "country": "Mexico"
+  },
+  {
+    "id": 25,
+    "title": "Border Run (Mule, The)",
+    "genres": "Crime|Thriller",
+    "releaseDate": "2/18/1989",
+    "description": "Other fracture of head and neck of right femur, initial encounter for closed fracture",
+    "country": "Japan"
+  },
+  {
+    "id": 26,
+    "title": "Hitman, The",
+    "genres": "Action|Crime|Thriller",
+    "releaseDate": "7/14/2013",
+    "description": "Unspecified occupant of special agricultural vehicle injured in traffic accident, initial encounter",
+    "country": "Tunisia"
+  },
+  {
+    "id": 27,
+    "title": "Airplane!",
+    "genres": "Comedy",
+    "releaseDate": "1/3/1987",
+    "description": "Malignant neoplasm of axillary tail of left male breast",
+    "country": "Sweden"
+  },
+  {
+    "id": 28,
+    "title": "And Now the Screaming Starts!",
+    "genres": "Horror|Thriller",
+    "releaseDate": "11/13/2002",
+    "description": "Effect of air pressure and water pressure, unspecified, subsequent encounter",
+    "country": "South Africa"
+  },
+  {
+    "id": 29,
+    "title": "Mr. Kinky",
+    "genres": "Comedy",
+    "releaseDate": "3/10/1987",
+    "description": "Person on outside of three-wheeled motor vehicle injured in noncollision transport accident in nontraffic accident, subsequent encounter",
+    "country": "Indonesia"
+  },
+  {
+    "id": 30,
+    "title": "Winged Migration (Peuple migrateur, Le)",
+    "genres": "Documentary",
+    "releaseDate": "1/8/2004",
+    "description": "Slipping, tripping and stumbling without falling due to stepping from one level to another, sequela",
+    "country": "Uganda"
+  },
+  {
+    "id": 31,
+    "title": "Tol'able David",
+    "genres": "Drama",
+    "releaseDate": "11/30/2008",
+    "description": "Nondisplaced fracture of trapezium [larger multangular], left wrist, initial encounter for open fracture",
+    "country": "Poland"
+  },
+  {
+    "id": 32,
+    "title": "Shed No Tears (Känn ingen sorg)",
+    "genres": "Drama|Musical|Romance",
+    "releaseDate": "9/4/1983",
+    "description": "Blister (nonthermal), right great toe, subsequent encounter",
+    "country": "Egypt"
+  },
+  {
+    "id": 33,
+    "title": "Bringing Up Bobby",
+    "genres": "Comedy",
+    "releaseDate": "12/20/2016",
+    "description": "Tributary (branch) retinal vein occlusion, right eye, stable",
+    "country": "Greece"
+  },
+  {
+    "id": 34,
+    "title": "Day After Trinity, The",
+    "genres": "Documentary",
+    "releaseDate": "4/29/2010",
+    "description": "Other forms of plague",
+    "country": "Peru"
+  },
+  {
+    "id": 35,
+    "title": "Deadly Spawn, The",
+    "genres": "Horror|Sci-Fi",
+    "releaseDate": "7/2/1995",
+    "description": "Military operations involving other explosions and fragments, military personnel",
+    "country": "Slovenia"
+  },
+  {
+    "id": 36,
+    "title": "Juggernaut",
+    "genres": "Action|Thriller",
+    "releaseDate": "6/24/2008",
+    "description": "Poisoning by, adverse effect of and underdosing of other systemic anti- infectives and antiparasitics",
+    "country": "Brazil"
+  },
+  {
+    "id": 37,
+    "title": "War of the Shaolin Temple (Shao Lin shi san gun seng)",
+    "genres": "Action|Adventure|War",
+    "releaseDate": "2/5/1987",
+    "description": "Person injured in unspecified motor-vehicle accident, nontraffic, sequela",
+    "country": "Bangladesh"
+  },
+  {
+    "id": 38,
+    "title": "Mouse Hunt",
+    "genres": "Children|Comedy",
+    "releaseDate": "9/2/1997",
+    "description": "Corrosions involving 80-89% of body surface",
+    "country": "Kenya"
+  },
+  {
+    "id": 39,
+    "title": "Searchers, The",
+    "genres": "Drama|Western",
+    "releaseDate": "1/2/1990",
+    "description": "Other specific joint derangements of left wrist, not elsewhere classified",
+    "country": "China"
+  },
+  {
+    "id": 40,
+    "title": "Surveillance",
+    "genres": "Crime|Mystery|Thriller",
+    "releaseDate": "8/2/2010",
+    "description": "Alcoholic fibrosis and sclerosis of liver",
+    "country": "Sweden"
+  },
+  {
+    "id": 41,
+    "title": "Outfit, The",
+    "genres": "Crime|Drama|Thriller",
+    "releaseDate": "4/21/2003",
+    "description": "Merkel cell carcinoma of right lower limb, including hip",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "id": 42,
+    "title": "Inbetweeners 2, The",
+    "genres": "Comedy",
+    "releaseDate": "9/20/2016",
+    "description": "Other pleural conditions",
+    "country": "China"
+  },
+  {
+    "id": 43,
+    "title": "Ritz, The",
+    "genres": "Comedy",
+    "releaseDate": "3/7/2020",
+    "description": "Displaced fracture of cuboid bone of unspecified foot, subsequent encounter for fracture with nonunion",
+    "country": "Egypt"
+  },
+  {
+    "id": 44,
+    "title": "Flight of the Phoenix, The",
+    "genres": "Action|Adventure|Drama",
+    "releaseDate": "12/24/1991",
+    "description": "Unspecified superficial injury of left lesser toe(s), sequela",
+    "country": "Russia"
+  },
+  {
+    "id": 45,
+    "title": "Immortel (ad vitam) (Immortal)",
+    "genres": "Action|Adventure|Animation|Fantasy|Sci-Fi",
+    "releaseDate": "1/5/2017",
+    "description": "Dislocation of distal interphalangeal joint of right ring finger, subsequent encounter",
+    "country": "Mexico"
+  },
+  {
+    "id": 46,
+    "title": "Big Broadcast of 1938, The",
+    "genres": "Comedy|Musical|Romance",
+    "releaseDate": "4/13/2015",
+    "description": "Postinfective urethral stricture, not elsewhere classified, male",
+    "country": "South Africa"
+  },
+  {
+    "id": 47,
+    "title": "Viola",
+    "genres": "Drama",
+    "releaseDate": "2/14/2000",
+    "description": "Dislocation of metatarsophalangeal joint of unspecified great toe, sequela",
+    "country": "South Africa"
+  },
+  {
+    "id": 48,
+    "title": "Street with No Name, The",
+    "genres": "Crime|Drama|Film-Noir|Thriller",
+    "releaseDate": "3/24/2012",
+    "description": "Other physeal fracture of lower end of right tibia, subsequent encounter for fracture with delayed healing",
+    "country": "Israel"
+  },
+  {
+    "id": 49,
+    "title": "Uptown Girls",
+    "genres": "Comedy",
+    "releaseDate": "11/23/1996",
+    "description": "Ciguatera fish poisoning, intentional self-harm, initial encounter",
+    "country": "Japan"
+  },
+  {
+    "id": 50,
+    "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "genres": "Horror",
+    "releaseDate": "2/1/1987",
+    "description": "Unspecified fracture of lower end of right humerus, subsequent encounter for fracture with malunion",
+    "country": "Indonesia"
+  }
+]
